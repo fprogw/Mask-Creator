@@ -2,7 +2,7 @@
 #            "Dear User, thank you for using this little mask creator :D"
 #            "Please note that this is my first written and published program."
 #            "If you find any unknown bugs, feel free to contact me. :)"
-#            "Autor: Frank Wittnich\nEmail: programming_fw@hotmail.com"
+#            "Autor: Frank Wittnich Email: programming_fw@hotmail.com"
 
 
 
