@@ -1,5 +1,5 @@
 #            "Verson: 1.0         Date: 07.04.2020"
-#            "Dear User,\nthank you for using this little mask creator :D"
+#            "Dear User, thank you for using this little mask creator :D"
 #            "Please note that this is my first written and published program."
 #            "If you find any unknown bugs, feel free to contact me. :)"
 #            "Autor: Frank Wittnich\nEmail: programming_fw@hotmail.com"
