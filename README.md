@@ -17,4 +17,4 @@ numpy
 
 
 TAGS:
-create, mask, photoshop, replace, color, python, pyqt5, program, script, load, save, add, sub, hsv, rgb
+create, mask, photoshop, replace, color, python, pyqt5, pyqt, program, script, load, save, add, sub, hsv, rgb, convert, cv2, opencv, image processing, processing, surface, picture, gui, Qlabel, Qimage, Qbutton, pick, click, 
